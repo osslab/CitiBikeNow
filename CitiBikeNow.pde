@@ -54,17 +54,19 @@ float minLon;
 
 PGraphics pg;
 
+int circlePlusX, circlePlusY;  // Position of circle button
+int circleMinusX, circleMinusY;  // Position of circle button
+int circleSize = 50;   // Diameter of circle
+boolean circlePlusOver = false;
+boolean circleMinusOver = false;
+
+color circleColor, circleHighlight;
+
 void setup() {
+  
+  
   size(displayWidth,displayHeight); // ON SCREEN SIZE
-  //pg = createGraphics(4724, 5906); // PRINT SIZE
-  
-  //folder = new File("/Users/suhongseo/Documents/data-processing/CitiBikeNowPoster/data/con/");
-  //listOfFiles = folder.listFiles();
-  //fileTotalNumber = listOfFiles.length;
-
-  
-
-  
+ 
   setGeoJSON();
   setBikeMarker();
 
@@ -74,11 +76,9 @@ void setup() {
   
   SimplePointMarker tischMarker = new SimplePointMarker(tischLocation);
  
-  
   tischMarker.setColor(color(255, 0, 0, 100));
 
- 
-  
+   
   
   map = new UnfoldingMap(this, new StamenMapProvider.Toner());
   map.zoomToLevel(currentZoom);
@@ -109,7 +109,13 @@ void setup() {
   println(maxLat + ", " + maxLon);
   println(minLat + ", " + minLon);
   
-  
+  circleColor = color(255);
+  circleHighlight = color(204); 
+ 
+  circlePlusX = 50; 
+  circlePlusY = height-140;  // Position of circle button
+  circleMinusX = 50;
+  circleMinusY = height-80;  // Position of circle button  
   
   
   timer = new Timer(60000); //1min to refresh
@@ -136,11 +142,15 @@ void draw() {
 
   map.draw();
   
+  stroke(0);
+  ellipse(circlePlusX, circlePlusY, circleSize, circleSize);
+  ellipse(circleMinusX, circleMinusY, circleSize, circleSize);
+  
   
   textSize(14);
   fill(255,255,255, 255);
-  text("Updated Time : ", 10, height-40);
-  text(executionTime, 10,height-25);   
+  text("Updated Time : ", 10, height-60);
+  text(executionTime, 10,height-45);   
  
 
 }
@@ -223,13 +233,15 @@ void mousePressed(){
       map.rotate(PI / 8);
     }
     else if (key == '-'){
-      currentZoom--;
-      map.zoomToLevel(currentZoom);
+      //currentZoom--;
+      //map.zoomToLevel(currentZoom);
+      map.zoomOut();
       map.panTo(map.getCenter());
     }
     else if (key == '+'){
-      currentZoom++;
-      map.zoomToLevel(currentZoom);
+      //currentZoom++;
+      //map.zoomToLevel(currentZoom);
+      map.zoomIn();
       map.panTo(map.getCenter());
     }
 
