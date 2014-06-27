@@ -82,7 +82,7 @@ void setup() {
   
   map = new UnfoldingMap(this, new StamenMapProvider.Toner());
   map.setPanningRestriction(tischLocation, 5);
-  map.setZoomRange(12, 17);
+  map.setZoomRange(12, 16);
   map.zoomToLevel(currentZoom);
   map.panTo(tischLocation);  
   
@@ -143,8 +143,12 @@ void draw() {
     //
 
   map.draw();
+
+
+
   
   stroke(0);
+  fill(255,255,255, 255);
   ellipseMode(CENTER);
   ellipse(circlePlusX, circlePlusY, circleSize, circleSize);
   fill(0,0,0, 255);
@@ -155,6 +159,10 @@ void draw() {
   fill(0,0,0, 255);
   text("_", circleMinusX - (textWidth("_")/2), circleMinusY - 3);
   
+  
+  fill(0,0,0, 100);
+  noStroke();
+  rect(5, height - 80 , 200, 30);  
   textSize(14);
   fill(255,255,255, 255);
   text("Updated Time : ", 10, height-60);
