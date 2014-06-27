@@ -82,7 +82,7 @@ void setup() {
   
   map = new UnfoldingMap(this, new StamenMapProvider.Toner());
   map.setPanningRestriction(tischLocation, 5);
-  map.setZoomRange(11, 15);
+  map.setZoomRange(10, 14);
   map.zoomToLevel(currentZoom);
   map.panTo(tischLocation);  
   
@@ -115,9 +115,9 @@ void setup() {
   circleHighlight = color(204); 
  
   circlePlusX = 40; 
-  circlePlusY = height-160;  // Position of circle button
+  circlePlusY = height-170;  // Position of circle button
   circleMinusX = 40;
-  circleMinusY = height-100;  // Position of circle button  
+  circleMinusY = height-110;  // Position of circle button  
   
   
   timer = new Timer(60000); //1min to refresh
@@ -145,9 +145,15 @@ void draw() {
   map.draw();
   
   stroke(0);
+  ellipseMode(CENTER);
   ellipse(circlePlusX, circlePlusY, circleSize, circleSize);
+  fill(0,0,0, 255);
+  textSize(38);
+  text("+", circlePlusX - (textWidth("+")/2), circlePlusY + 13);
+  fill(255,255,255, 255);
   ellipse(circleMinusX, circleMinusY, circleSize, circleSize);
-  
+  fill(0,0,0, 255);
+  text("-", circleMinusX - (textWidth("-")/2), circleMinusY + 13);
   
   textSize(14);
   fill(255,255,255, 255);
