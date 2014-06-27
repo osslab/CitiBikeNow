@@ -1,0 +1,5317 @@
+{
+  "features": [
+    {
+      "properties": {
+        "availableDocks": 33,
+        "name": "W 52 St & 11 Ave",
+        "availableBikes": 3,
+        "totalDocks": 38
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99392700195312,
+          40.76727294921875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "Franklin St & W Broadway",
+        "availableBikes": 22,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00666809082031,
+          40.7191162109375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "St James Pl & Pearl St",
+        "availableBikes": 3,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00016784667969,
+          40.71117401123047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 37,
+        "name": "Atlantic Ave & Fort Greene Pl",
+        "availableBikes": 21,
+        "totalDocks": 58
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97632598876953,
+          40.6838264465332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 33,
+        "name": "W 17 St & 8 Ave",
+        "availableBikes": 0,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00149536132812,
+          40.74177551269531
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "Park Ave & St Edwards St",
+        "availableBikes": 12,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97803497314453,
+          40.69609069824219
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "Lexington Ave & Classon Ave",
+        "availableBikes": 4,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95928192138672,
+          40.686767578125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Barrow St & Hudson St",
+        "availableBikes": 7,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00674438476562,
+          40.73172378540039
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "MacDougal St & Prince St",
+        "availableBikes": 21,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00296783447266,
+          40.72710418701172
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 19,
+        "name": "E 56 St & Madison Ave",
+        "availableBikes": 27,
+        "totalDocks": 46
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9729232788086,
+          40.761627197265625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Clinton St & Joralemon St",
+        "availableBikes": 9,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99337768554688,
+          40.6923942565918
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Nassau St & Navy St",
+        "availableBikes": 16,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9806900024414,
+          40.69839859008789
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "Hudson St & Reade St",
+        "availableBikes": 13,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00910949707031,
+          40.716251373291016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "Greenwich St & Warren St",
+        "availableBikes": 13,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01122283935547,
+          40.715423583984375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "E 2 St & Avenue C",
+        "availableBikes": 1,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9808578491211,
+          40.72087478637695
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Cleveland Pl & Spring St",
+        "availableBikes": 18,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99720001220703,
+          40.72181701660156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Warren St & Church St",
+        "availableBikes": 12,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00910949707031,
+          40.71474075317383
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "E 40 St & 5 Ave",
+        "availableBikes": 41,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98163604736328,
+          40.7520637512207
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "Henry St & Atlantic Ave",
+        "availableBikes": 1,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99612426757812,
+          40.69089126586914
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "E 37 St & Lexington Ave",
+        "availableBikes": 2,
+        "totalDocks": 26
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97830963134766,
+          40.74823760986328
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "LaGuardia Pl & W 3 St",
+        "availableBikes": 2,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99810028076172,
+          40.72917175292969
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "E 47 St & 2 Ave",
+        "availableBikes": 31,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97032165527344,
+          40.753231048583984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "E 39 St & 3 Ave",
+        "availableBikes": 29,
+        "totalDocks": 45
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9760513305664,
+          40.7489013671875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "W 18 St & 6 Ave",
+        "availableBikes": 43,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99456024169922,
+          40.73971176147461
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "Broadway & W 49 St",
+        "availableBikes": 42,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98442840576172,
+          40.76064682006836
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "E 25 St & 1 Ave",
+        "availableBikes": 5,
+        "totalDocks": 21
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97738647460938,
+          40.73817825317383
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Liberty St & Broadway",
+        "availableBikes": 40,
+        "totalDocks": 45
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01043701171875,
+          40.70905685424805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "W 16 St & The High Line",
+        "availableBikes": 24,
+        "totalDocks": 28
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00682067871094,
+          40.743350982666016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Columbia Heights & Cranberry St",
+        "availableBikes": 3,
+        "totalDocks": 20
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9954833984375,
+          40.70037841796875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Old Fulton St",
+        "availableBikes": 35,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99383544921875,
+          40.7027702331543
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 31,
+        "name": "Gallatin Pl & Livingston St",
+        "availableBikes": 7,
+        "totalDocks": 38
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98706817626953,
+          40.690284729003906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "W 13 St & 7 Ave",
+        "availableBikes": 2,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99994659423828,
+          40.737815856933594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "Spruce St & Nassau St",
+        "availableBikes": 2,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00552368164062,
+          40.711463928222656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "W 14 St & The High Line",
+        "availableBikes": 35,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0080337524414,
+          40.74195098876953
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "E 48 St & 3 Ave",
+        "availableBikes": 53,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97187805175781,
+          40.754600524902344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Great Jones St",
+        "availableBikes": 10,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99378967285156,
+          40.72743606567383
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 9,
+        "name": "Cadman Plaza E & Tillary St",
+        "availableBikes": 10,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99015045166016,
+          40.69597625732422
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Joralemon St & Adams St",
+        "availableBikes": 33,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98963928222656,
+          40.69246292114258
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "St Marks Pl & 2 Ave",
+        "availableBikes": 5,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98713684082031,
+          40.72842025756836
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "E 11 St & 2 Ave",
+        "availableBikes": 1,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98672485351562,
+          40.730472564697266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "Bank St & Washington St",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00859069824219,
+          40.73619842529297
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Willoughby St & Fleet St",
+        "availableBikes": 27,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9813003540039,
+          40.69196701049805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "DeKalb Ave & S Portland Ave",
+        "availableBikes": 3,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97492980957031,
+          40.68981170654297
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "Flushing Ave & Carlton Ave",
+        "availableBikes": 15,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97350311279297,
+          40.69788360595703
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Fulton St & Rockwell Pl",
+        "availableBikes": 5,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97938537597656,
+          40.68822479248047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Willoughby Ave & Hall St",
+        "availableBikes": 15,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96537017822266,
+          40.691959381103516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 13,
+        "name": "Myrtle Ave & St Edwards St",
+        "availableBikes": 10,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97703552246094,
+          40.69327163696289
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "Perry St & Bleecker St",
+        "availableBikes": 2,
+        "totalDocks": 20
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00482940673828,
+          40.735355377197266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Laight St & Hudson St",
+        "availableBikes": 21,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00772094726562,
+          40.72185516357422
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Harrison St & Hudson St",
+        "availableBikes": 23,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00900268554688,
+          40.71870803833008
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "Lafayette St & Jersey St",
+        "availableBikes": 32,
+        "totalDocks": 40
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99565124511719,
+          40.72455978393555
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 13,
+        "name": "Mott St & Prince St",
+        "availableBikes": 9,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99479675292969,
+          40.72317886352539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "MacDougal St & Washington Sq",
+        "availableBikes": 0,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99851989746094,
+          40.73226547241211
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "W 13 St & 5 Ave",
+        "availableBikes": 0,
+        "totalDocks": 3
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99453735351562,
+          40.73543930053711
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "W 11 St & 6 Ave",
+        "availableBikes": 0,
+        "totalDocks": 3
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99800109863281,
+          40.73532485961914
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "Lispenard St & Broadway",
+        "availableBikes": 25,
+        "totalDocks": 38
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00247192382812,
+          40.719390869140625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "DeKalb Ave & Vanderbilt Ave",
+        "availableBikes": 3,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96885681152344,
+          40.68940734863281
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "South St & Whitehall St",
+        "availableBikes": 32,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01234436035156,
+          40.70122146606445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Broad St & Bridge St",
+        "availableBikes": 28,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01168060302734,
+          40.703651428222656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Johnson St & Gold St",
+        "availableBikes": 14,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98362731933594,
+          40.69474792480469
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "Washington Park",
+        "availableBikes": 12,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9737319946289,
+          40.6917839050293
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Elizabeth St & Hester St",
+        "availableBikes": 17,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99637603759766,
+          40.717288970947266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Maiden Ln & Pearl St",
+        "availableBikes": 25,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00731658935547,
+          40.70706558227539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "Stanton St & Chrystie St",
+        "availableBikes": 17,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9914779663086,
+          40.722293853759766
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Avenue D & E 8 St",
+        "availableBikes": 1,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97574615478516,
+          40.72368240356445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 55,
+        "name": "Broadway & W 36 St",
+        "availableBikes": 1,
+        "totalDocks": 57
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98765563964844,
+          40.7509765625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "Howard St & Centre St",
+        "availableBikes": 22,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9997329711914,
+          40.7191047668457
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Adelphi St & Myrtle Ave",
+        "availableBikes": 2,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97178649902344,
+          40.69308090209961
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "Ashland Pl & Hanson Pl",
+        "availableBikes": 29,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97805786132812,
+          40.685279846191406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Lafayette Ave & Fort Greene Pl",
+        "availableBikes": 15,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9766845703125,
+          40.686920166015625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Washington Ave & Greene Ave",
+        "availableBikes": 13,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96562957763672,
+          40.686500549316406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "Duane St & Greenwich St",
+        "availableBikes": 22,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01045227050781,
+          40.71748733520508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Concord St & Bridge St",
+        "availableBikes": 13,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9847640991211,
+          40.69766616821289
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "Sands St & Gold St",
+        "availableBikes": 9,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98271942138672,
+          40.69987106323242
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "E 10 St & 5 Ave",
+        "availableBikes": 3,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99510192871094,
+          40.73331832885742
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "Grand Army Plaza & Central Park S",
+        "availableBikes": 34,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97371673583984,
+          40.76439666748047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Kent Ave & S 11 St",
+        "availableBikes": 21,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96833801269531,
+          40.708274841308594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 36,
+        "name": "Greenwich Ave & 8 Ave",
+        "availableBikes": 7,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00263977050781,
+          40.739017486572266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "Broadway & E 14 St",
+        "availableBikes": 19,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99073791503906,
+          40.73454666137695
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Monroe St & Classon Ave",
+        "availableBikes": 5,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95880889892578,
+          40.684566497802734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "2 Ave & E 58 St",
+        "availableBikes": 1,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96478271484375,
+          40.76020431518555
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Madison St & Montgomery St",
+        "availableBikes": 3,
+        "totalDocks": 20
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9848403930664,
+          40.71312713623047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "Lafayette St & E 8 St",
+        "availableBikes": 29,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99076843261719,
+          40.73028564453125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Washington Square E",
+        "availableBikes": 5,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99571990966797,
+          40.73049545288086
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Pike St & E Broadway",
+        "availableBikes": 16,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9929428100586,
+          40.71406555175781
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "Division St & Bowery",
+        "availableBikes": 15,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9970474243164,
+          40.71413040161133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "E 15 St & 3 Ave",
+        "availableBikes": 0,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98692321777344,
+          40.73423385620117
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "3 Ave & Schermerhorn St",
+        "availableBikes": 18,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97967529296875,
+          40.686832427978516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 54,
+        "name": "Shevchenko Pl & E 7 St",
+        "availableBikes": 0,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9902114868164,
+          40.728145599365234
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "E 2 St & Avenue B",
+        "availableBikes": 15,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98368835449219,
+          40.72217559814453
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Avenue D & E 3 St",
+        "availableBikes": 1,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9779281616211,
+          40.720829010009766
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "Mercer St & Spring St",
+        "availableBikes": 29,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99949645996094,
+          40.723628997802734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Broadway & Battery Pl",
+        "availableBikes": 27,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01361846923828,
+          40.70463180541992
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "E 58 St & 3 Ave",
+        "availableBikes": 29,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96724700927734,
+          40.760955810546875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 9,
+        "name": "Cliff St & Fulton St",
+        "availableBikes": 28,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00530242919922,
+          40.70823669433594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "Canal St & Rutgers St",
+        "availableBikes": 3,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98989868164062,
+          40.71427536010742
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "St James Pl & Oliver St",
+        "availableBikes": 2,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9985122680664,
+          40.713077545166016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Murray St & West St",
+        "availableBikes": 37,
+        "totalDocks": 41
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01301574707031,
+          40.7149772644043
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "State St & Smith St",
+        "availableBikes": 13,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98912811279297,
+          40.68927001953125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Norfolk St & Broome St",
+        "availableBikes": 13,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98802185058594,
+          40.717227935791016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "Allen St & E Houston St",
+        "availableBikes": 1,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9891128540039,
+          40.72205352783203
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 9,
+        "name": "Washington Ave & Park Ave",
+        "availableBikes": 13,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96751403808594,
+          40.696102142333984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "Cadman Plaza West & Montague St",
+        "availableBikes": 9,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99053955078125,
+          40.69382858276367
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "South St & Gouverneur Ln",
+        "availableBikes": 16,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00669860839844,
+          40.70355224609375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Fulton St & William St",
+        "availableBikes": 8,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00653839111328,
+          40.70956039428711
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "E 6 St & Avenue B",
+        "availableBikes": 2,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98185729980469,
+          40.72453689575195
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "E 43 St & Vanderbilt Ave",
+        "availableBikes": 3,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97798919677734,
+          40.75320053100586
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "Park Pl & Church St",
+        "availableBikes": 12,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0093765258789,
+          40.71335983276367
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Leonard St & Church St",
+        "availableBikes": 4,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00554656982422,
+          40.71757125854492
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Cadman Plaza E & Red Cross Pl",
+        "availableBikes": 4,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98971557617188,
+          40.69991683959961
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Clinton St & Tillary St",
+        "availableBikes": 14,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99121856689453,
+          40.69619369506836
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 19,
+        "name": "Lawrence St & Willoughby St",
+        "availableBikes": 20,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98632049560547,
+          40.692359924316406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "DeKalb Ave & Hudson Ave",
+        "availableBikes": 35,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98101043701172,
+          40.68988800048828
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "E 19 St & 3 Ave",
+        "availableBikes": 0,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9847412109375,
+          40.736244201660156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "E 11 St & 1 Ave",
+        "availableBikes": 1,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98426818847656,
+          40.72953796386719
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "Vesey Pl & River Terrace",
+        "availableBikes": 10,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01658630371094,
+          40.71533966064453
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Watts St & Greenwich St",
+        "availableBikes": 17,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00965881347656,
+          40.724056243896484
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "Greenwich St & N Moore St",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01020812988281,
+          40.72043228149414
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "Reade St & Broadway",
+        "availableBikes": 13,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00563049316406,
+          40.71450424194336
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Pike St & Monroe St",
+        "availableBikes": 8,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99192810058594,
+          40.71173095703125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "Cherry St",
+        "availableBikes": 2,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97948455810547,
+          40.71220016479492
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "W 20 St & 7 Ave",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99726104736328,
+          40.74238967895508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Washington Pl & Broadway",
+        "availableBikes": 10,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99404907226562,
+          40.72903823852539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 31,
+        "name": "Sullivan St & Washington Sq",
+        "availableBikes": 2,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99906158447266,
+          40.73047637939453
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Old Slip & Front St",
+        "availableBikes": 20,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00838470458984,
+          40.703800201416016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Avenue D & E 12 St",
+        "availableBikes": 8,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97422790527344,
+          40.725807189941406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Madison St & Clinton St",
+        "availableBikes": 16,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98776245117188,
+          40.71269226074219
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Stanton St & Mangin St",
+        "availableBikes": 12,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97628784179688,
+          40.71782302856445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Columbia St & Rivington St",
+        "availableBikes": 10,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98016357421875,
+          40.71739959716797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "Clinton Ave & Flushing Ave",
+        "availableBikes": 20,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9698715209961,
+          40.697940826416016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Monroe St & Bedford Ave",
+        "availableBikes": 22,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95381164550781,
+          40.685142517089844
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "W 13 St & 6 Ave",
+        "availableBikes": 6,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9970474243164,
+          40.73649215698242
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "Bank St & Hudson St",
+        "availableBikes": 1,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00617980957031,
+          40.73653030395508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 0,
+        "name": "W Houston St & Hudson St",
+        "availableBikes": 34,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00749206542969,
+          40.72874069213867
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "W Broadway & Spring St",
+        "availableBikes": 39,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00154876708984,
+          40.724910736083984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "Rivington St & Ridge St",
+        "availableBikes": 1,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9832992553711,
+          40.718502044677734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "Clinton St & Grand St",
+        "availableBikes": 2,
+        "totalDocks": 28
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98703002929688,
+          40.71559524536133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Front St & Maiden Ln",
+        "availableBikes": 19,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0061264038086,
+          40.7053108215332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "W 56 St & 6 Ave",
+        "availableBikes": 29,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97722625732422,
+          40.763404846191406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "S Portland Ave & Hanson Pl",
+        "availableBikes": 15,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97431182861328,
+          40.685394287109375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "Emerson Pl & Myrtle Ave",
+        "availableBikes": 23,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96223449707031,
+          40.69363021850586
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Bayard St & Baxter St",
+        "availableBikes": 6,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99974060058594,
+          40.71602249145508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Bialystoker Pl & Delancey St",
+        "availableBikes": 10,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98261260986328,
+          40.716224670410156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "E 11 St & Broadway",
+        "availableBikes": 11,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9915771484375,
+          40.73261642456055
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "Christopher St & Greenwich St",
+        "availableBikes": 2,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00711059570312,
+          40.732913970947266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "E 47 St & Park Ave",
+        "availableBikes": 45,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97498321533203,
+          40.755104064941406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "William St & Pine St",
+        "availableBikes": 23,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00887298583984,
+          40.70718002319336
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "Allen St & Hester St",
+        "availableBikes": 11,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99190521240234,
+          40.71605682373047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 38,
+        "name": "Broadway & W 37 St",
+        "availableBikes": 16,
+        "totalDocks": 57
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98753356933594,
+          40.75172805786133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 43,
+        "name": "West Thames St",
+        "availableBikes": 2,
+        "totalDocks": 48
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01713562011719,
+          40.70834732055664
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Lafayette Ave & Classon Ave",
+        "availableBikes": 21,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96023559570312,
+          40.689002990722656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "Fulton St & Grand Ave",
+        "availableBikes": 9,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96145629882812,
+          40.68223190307617
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "Clinton Ave & Myrtle Ave",
+        "availableBikes": 4,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9688949584961,
+          40.693260192871094
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "E 53 St & Lexington Ave",
+        "availableBikes": 27,
+        "totalDocks": 34
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97069549560547,
+          40.75828170776367
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "Carmine St & 6 Ave",
+        "availableBikes": 11,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00215148925781,
+          40.730384826660156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Washington Pl & 6 Ave",
+        "availableBikes": 0,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0002670288086,
+          40.732242584228516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Franklin Ave & Myrtle Ave",
+        "availableBikes": 10,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95809173583984,
+          40.69452667236328
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Willoughby Ave & Walworth St",
+        "availableBikes": 7,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95381927490234,
+          40.69331741333008
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "Mercer St & Bleecker St",
+        "availableBikes": 21,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9969482421875,
+          40.7267951965332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "John St & William St",
+        "availableBikes": 27,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0072250366211,
+          40.708621978759766
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "6 Ave & Canal St",
+        "availableBikes": 41,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00566101074219,
+          40.72243881225586
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "W 31 St & 7 Ave",
+        "availableBikes": 24,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9916000366211,
+          40.7491569519043
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "W 4 St & 7 Ave S",
+        "availableBikes": 2,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00293731689453,
+          40.734012603759766
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "University Pl & E 14 St",
+        "availableBikes": 16,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99200439453125,
+          40.734928131103516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 38,
+        "name": "Greenwich Ave & Charles St",
+        "availableBikes": 1,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00027465820312,
+          40.73523712158203
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "Fulton St & Waverly Ave",
+        "availableBikes": 15,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9659652709961,
+          40.68317794799805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "E 55 St & 2 Ave",
+        "availableBikes": 0,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96603393554688,
+          40.757972717285156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 19,
+        "name": "Centre St & Worth St",
+        "availableBikes": 21,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0023422241211,
+          40.71494674682617
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Centre St & Chambers St",
+        "availableBikes": 18,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00460815429688,
+          40.71273422241211
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "W 26 St & 10 Ave",
+        "availableBikes": 28,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0029525756836,
+          40.749717712402344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "Broadway & Berry St",
+        "availableBikes": 9,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96524810791016,
+          40.710445404052734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "Duffield St & Willoughby St",
+        "availableBikes": 28,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98428344726562,
+          40.69221496582031
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 7,
+        "name": "Clark St & Henry St",
+        "availableBikes": 24,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99344635009766,
+          40.697601318359375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Jay St & Tech Pl",
+        "availableBikes": 29,
+        "totalDocks": 32
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98716735839844,
+          40.695064544677734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "E 5 St & Avenue C",
+        "availableBikes": 1,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9799575805664,
+          40.722991943359375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "E 9 St & Avenue C",
+        "availableBikes": 1,
+        "totalDocks": 32
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9776840209961,
+          40.72521209716797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "Bond St & Schermerhorn St",
+        "availableBikes": 10,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9841079711914,
+          40.68806838989258
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "Lefferts Pl & Franklin Ave",
+        "availableBikes": 24,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95577239990234,
+          40.68034362792969
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "Fulton St & Clermont Ave",
+        "availableBikes": 16,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96922302246094,
+          40.68415832519531
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Atlantic Ave & Furman St",
+        "availableBikes": 26,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9999771118164,
+          40.691650390625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Lafayette Ave & St James Pl",
+        "availableBikes": 11,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96475982666016,
+          40.688514709472656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Pitt St & Stanton St",
+        "availableBikes": 4,
+        "totalDocks": 15
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98178100585938,
+          40.719261169433594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 36,
+        "name": "Allen St & Rivington St",
+        "availableBikes": 2,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98997497558594,
+          40.72019577026367
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Broadway & E 22 St",
+        "availableBikes": 25,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98954772949219,
+          40.7403450012207
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "E 2 St & 2 Ave",
+        "availableBikes": 10,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9906997680664,
+          40.72502899169922
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "9 Ave & W 14 St",
+        "availableBikes": 31,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00550842285156,
+          40.74058151245117
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "Washington St & Gansevoort St",
+        "availableBikes": 4,
+        "totalDocks": 40
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00811767578125,
+          40.739322662353516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 9,
+        "name": "Hicks St & Montague St",
+        "availableBikes": 25,
+        "totalDocks": 34
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9959487915039,
+          40.69512939453125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Henry St & Poplar St",
+        "availableBikes": 37,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991455078125,
+          40.700469970703125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "Market St & Cherry St",
+        "availableBikes": 9,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99400329589844,
+          40.71076202392578
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "DeKalb Ave & Skillman St",
+        "availableBikes": 4,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95642852783203,
+          40.690650939941406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Suffolk St & Stanton St",
+        "availableBikes": 1,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98517608642578,
+          40.720664978027344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 13,
+        "name": "E 6 St & Avenue D",
+        "availableBikes": 5,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9766845703125,
+          40.72228240966797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "Forsyth St & Canal St",
+        "availableBikes": 4,
+        "totalDocks": 20
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99422454833984,
+          40.715816497802734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "Pearl St & Anchorage Pl",
+        "availableBikes": 15,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98765563964844,
+          40.70281982421875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "Pearl St & Hanover Square",
+        "availableBikes": 37,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00926208496094,
+          40.70471954345703
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Cumberland St & Lafayette Ave",
+        "availableBikes": 6,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97264862060547,
+          40.68753433227539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 38,
+        "name": "Barclay St & Church St",
+        "availableBikes": 4,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01020050048828,
+          40.712913513183594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Front St & Gold St",
+        "availableBikes": 17,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98257446289062,
+          40.702239990234375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "Carlton Ave & Park Ave",
+        "availableBikes": 2,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97355651855469,
+          40.69580841064453
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "Clermont Ave & Lafayette Ave",
+        "availableBikes": 7,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96968841552734,
+          40.687644958496094
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Clermont Ave & Park Ave",
+        "availableBikes": 6,
+        "totalDocks": 19
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97129821777344,
+          40.69573211669922
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 45,
+        "name": "W 59 St & 10 Ave",
+        "availableBikes": 2,
+        "totalDocks": 49
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988037109375,
+          40.770511627197266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 39,
+        "name": "W 54 St & 9 Ave",
+        "availableBikes": 0,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98690795898438,
+          40.76585006713867
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "West St & Chambers St",
+        "availableBikes": 16,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01322174072266,
+          40.71754837036133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Bus Slip & State St",
+        "availableBikes": 31,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0139389038086,
+          40.701908111572266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "E 3 St & 1 Ave",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98783111572266,
+          40.72467803955078
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 1,
+        "name": "York St & Jay St",
+        "availableBikes": 24,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986572265625,
+          40.70148468017578
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "Hanover Pl & Livingston St",
+        "availableBikes": 13,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98263549804688,
+          40.68864822387695
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "E 7 St & Avenue A",
+        "availableBikes": 2,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98379516601562,
+          40.726219177246094
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "E 13 St & Avenue A",
+        "availableBikes": 0,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98057556152344,
+          40.72955322265625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "9 Ave & W 18 St",
+        "availableBikes": 22,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003662109375,
+          40.7431755065918
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "W 21 St & 6 Ave",
+        "availableBikes": 35,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99415588378906,
+          40.74174118041992
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Hancock St & Bedford Ave",
+        "availableBikes": 13,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95398712158203,
+          40.682167053222656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 0,
+        "name": "Macon St & Nostrand Ave",
+        "availableBikes": 0,
+        "totalDocks": 0
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9500503540039,
+          40.68098449707031
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "St Marks Pl & 1 Ave",
+        "availableBikes": 0,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98564910888672,
+          40.72779083251953
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "E 4 St & 2 Ave",
+        "availableBikes": 0,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98977661132812,
+          40.726280212402344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "E 45 St & 3 Ave",
+        "availableBikes": 27,
+        "totalDocks": 32
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97282409667969,
+          40.75255584716797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "E 52 St & 2 Ave",
+        "availableBikes": 5,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96741485595703,
+          40.75601577758789
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 47,
+        "name": "W 27 St & 7 Ave",
+        "availableBikes": 3,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99391174316406,
+          40.746646881103516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "Bedford Ave & S 9th St",
+        "availableBikes": 17,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9640884399414,
+          40.70853042602539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "Broadway & W 24 St",
+        "availableBikes": 30,
+        "totalDocks": 52
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98915100097656,
+          40.74235534667969
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 41,
+        "name": "E 10 St & Avenue A",
+        "availableBikes": 1,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9814224243164,
+          40.72740936279297
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 36,
+        "name": "W 24 St & 7 Ave",
+        "availableBikes": 0,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99530029296875,
+          40.744876861572266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "8 Ave & W 52 St",
+        "availableBikes": 1,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98516082763672,
+          40.76370620727539
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "W 37 St & 10 Ave",
+        "availableBikes": 2,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9979019165039,
+          40.7566032409668
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "W 52 St & 9 Ave",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9878921508789,
+          40.764617919921875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 54,
+        "name": "W 49 St & 8 Ave",
+        "availableBikes": 2,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98788452148438,
+          40.762271881103516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "W 22 St & 8 Ave",
+        "availableBikes": 1,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99915313720703,
+          40.7447509765625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 31,
+        "name": "E 51 St & 1 Ave",
+        "availableBikes": 1,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96592712402344,
+          40.75455856323242
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "1 Ave & E 44 St",
+        "availableBikes": 32,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96905517578125,
+          40.75001907348633
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "E 53 St & Madison Ave",
+        "availableBikes": 32,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9740219116211,
+          40.75971221923828
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 31,
+        "name": "Broadway & W 58 St",
+        "availableBikes": 28,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98169708251953,
+          40.76695251464844
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 2,
+        "name": "11 Ave & W 27 St",
+        "availableBikes": 27,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0052261352539,
+          40.75139617919922
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "W 20 St & 11 Ave",
+        "availableBikes": 32,
+        "totalDocks": 49
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00775909423828,
+          40.74674606323242
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "S 4 St & Wythe Ave",
+        "availableBikes": 4,
+        "totalDocks": 23
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96590423583984,
+          40.712860107421875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 36,
+        "name": "E 20 St & 2 Ave",
+        "availableBikes": 1,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98204803466797,
+          40.735877990722656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 39,
+        "name": "W 22 St & 10 Ave",
+        "availableBikes": 5,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0045166015625,
+          40.746917724609375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 0,
+        "name": "9 Ave & W 16 St",
+        "availableBikes": 24,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00443267822266,
+          40.7420654296875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 45,
+        "name": "E 56 St & 3 Ave",
+        "availableBikes": 14,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96759796142578,
+          40.75934600830078
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "Broadway & W 41 St",
+        "availableBikes": 6,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98657989501953,
+          40.75513458251953
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "W 25 St & 6 Ave",
+        "availableBikes": 31,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99144744873047,
+          40.743953704833984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "Dean St & 4 Ave",
+        "availableBikes": 12,
+        "totalDocks": 34
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97895050048828,
+          40.68312454223633
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 53,
+        "name": "Broadway & W 55 St",
+        "availableBikes": 5,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98192596435547,
+          40.76526641845703
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "Broadway & W 53 St",
+        "availableBikes": 38,
+        "totalDocks": 57
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98268127441406,
+          40.7634391784668
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "W 20 St & 8 Ave",
+        "availableBikes": 1,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00003814697266,
+          40.74345397949219
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 10,
+        "name": "Grand St & Havemeyer St",
+        "availableBikes": 21,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95697784423828,
+          40.712867736816406
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "E 32 St & Park Ave",
+        "availableBikes": 28,
+        "totalDocks": 41
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98194885253906,
+          40.74571228027344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "Rivington St & Chrystie St",
+        "availableBikes": 13,
+        "totalDocks": 42
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99192810058594,
+          40.721099853515625
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "5 Ave & E 29 St",
+        "availableBikes": 23,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98683166503906,
+          40.74516677856445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "E 16 St & Irving Pl",
+        "availableBikes": 10,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98758697509766,
+          40.7352409362793
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 46,
+        "name": "E 31 St & 3 Ave",
+        "availableBikes": 0,
+        "totalDocks": 46
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97966003417969,
+          40.74394226074219
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 57,
+        "name": "W 41 St & 8 Ave",
+        "availableBikes": 0,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99002838134766,
+          40.756404876708984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "11 Ave & W 41 St",
+        "availableBikes": 0,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99884033203125,
+          40.76029968261719
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "9 Ave & W 45 St",
+        "availableBikes": 1,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99125671386719,
+          40.76019287109375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "W 53 St & 10 Ave",
+        "availableBikes": 1,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99061584472656,
+          40.76669692993164
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 21,
+        "name": "S 3 St & Bedford Ave",
+        "availableBikes": 3,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962646484375,
+          40.71260452270508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "W 15 St & 7 Ave",
+        "availableBikes": 5,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99932098388672,
+          40.739356994628906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "E 12 St & 3 Ave",
+        "availableBikes": 1,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98889923095703,
+          40.73223114013672
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 4,
+        "name": "W 44 St & 5 Ave",
+        "availableBikes": 38,
+        "totalDocks": 44
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98014068603516,
+          40.755001068115234
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "W 37 St & 5 Ave",
+        "availableBikes": 22,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98339080810547,
+          40.75038146972656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "Broadway & W 29 St",
+        "availableBikes": 3,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98855590820312,
+          40.74620056152344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 33,
+        "name": "E 20 St & FDR Drive",
+        "availableBikes": 3,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97573852539062,
+          40.7331428527832
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 40,
+        "name": "W 39 St & 9 Ave",
+        "availableBikes": 1,
+        "totalDocks": 41
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99372100830078,
+          40.7564582824707
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "10 Ave & W 28 St",
+        "availableBikes": 30,
+        "totalDocks": 37
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00177001953125,
+          40.75066375732422
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 50,
+        "name": "8 Ave & W 33 St",
+        "availableBikes": 7,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99393463134766,
+          40.75155258178711
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "E 24 St & Park Ave S",
+        "availableBikes": 22,
+        "totalDocks": 53
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98602294921875,
+          40.740962982177734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 46,
+        "name": "W 33 St & 7 Ave",
+        "availableBikes": 2,
+        "totalDocks": 49
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99092864990234,
+          40.75019836425781
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "W 45 St & 6 Ave",
+        "availableBikes": 10,
+        "totalDocks": 34
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98291015625,
+          40.75680160522461
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "W 26 St & 8 Ave",
+        "availableBikes": 2,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99723815917969,
+          40.74734878540039
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "W 47 St & 10 Ave",
+        "availableBikes": 1,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99301147460938,
+          40.762699127197266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "E 16 St & 5 Ave",
+        "availableBikes": 39,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99238586425781,
+          40.73726272583008
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "E 17 St & Broadway",
+        "availableBikes": 54,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9900894165039,
+          40.7370491027832
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "Broadway & W 32 St",
+        "availableBikes": 1,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98808288574219,
+          40.74855041503906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 33,
+        "name": "Broadway & W 60 St",
+        "availableBikes": 3,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98191833496094,
+          40.7691535949707
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Broadway & W 51 St",
+        "availableBikes": 39,
+        "totalDocks": 52
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98336029052734,
+          40.76228713989258
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 42,
+        "name": "FDR Drive & E 35 St",
+        "availableBikes": 1,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712142944336,
+          40.74422073364258
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Henry St & Grand St",
+        "availableBikes": 7,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9813461303711,
+          40.71421432495117
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 5,
+        "name": "E 20 St & Park Ave",
+        "availableBikes": 0,
+        "totalDocks": 5
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98751831054688,
+          40.73827362060547
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 44,
+        "name": "1 Ave & E 15 St",
+        "availableBikes": 1,
+        "totalDocks": 45
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98165893554688,
+          40.73221969604492
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "6 Ave & W 33 St",
+        "availableBikes": 0,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98848724365234,
+          40.7490119934082
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 41,
+        "name": "E 25 St & 2 Ave",
+        "availableBikes": 2,
+        "totalDocks": 47
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979736328125,
+          40.7391242980957
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "W 46 St & 11 Ave",
+        "availableBikes": 2,
+        "totalDocks": 24
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99667358398438,
+          40.76341247558594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "9 Ave & W 22 St",
+        "availableBikes": 4,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00196838378906,
+          40.74549865722656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 26,
+        "name": "W 51 St & 6 Ave",
+        "availableBikes": 24,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98042297363281,
+          40.760658264160156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "E 14 St & Avenue B",
+        "availableBikes": 3,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97772216796875,
+          40.72938537597656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 20,
+        "name": "W 29 St & 9 Ave",
+        "availableBikes": 1,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9983901977539,
+          40.75007247924805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "W 56 St & 10 Ave",
+        "availableBikes": 3,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98863983154297,
+          40.768253326416016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 27,
+        "name": "12 Ave & W 40 St",
+        "availableBikes": 24,
+        "totalDocks": 53
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00277709960938,
+          40.7608757019043
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 34,
+        "name": "W 43 St & 10 Ave",
+        "availableBikes": 1,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99462127685547,
+          40.760093688964844
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 15,
+        "name": "E 47 St & 1 Ave",
+        "availableBikes": 22,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96784210205078,
+          40.75206756591797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 37,
+        "name": "E 41 St & Madison Ave",
+        "availableBikes": 18,
+        "totalDocks": 55
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97978210449219,
+          40.752140045166016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "E 39 St & 2 Ave",
+        "availableBikes": 6,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97344207763672,
+          40.747802734375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "E 42 St & Vanderbilt Ave",
+        "availableBikes": 38,
+        "totalDocks": 61
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9783706665039,
+          40.75241470336914
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "W 52 St & 5 Ave",
+        "availableBikes": 1,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97648620605469,
+          40.75992202758789
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 41,
+        "name": "8 Ave & W 31 St",
+        "availableBikes": 24,
+        "totalDocks": 67
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99481201171875,
+          40.750450134277344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 17,
+        "name": "E 51 St & Lexington Ave",
+        "availableBikes": 32,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97207641601562,
+          40.75714874267578
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 45,
+        "name": "W 38 St & 8 Ave",
+        "availableBikes": 4,
+        "totalDocks": 51
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99137878417969,
+          40.75466537475586
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "W 43 St & 6 Ave",
+        "availableBikes": 0,
+        "totalDocks": 3
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98316955566406,
+          40.755271911621094
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 13,
+        "name": "W 34 St & 11 Ave",
+        "availableBikes": 26,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00211334228516,
+          40.755943298339844
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "E 33 St & 5 Ave",
+        "availableBikes": 17,
+        "totalDocks": 40
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98490905761719,
+          40.747657775878906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 56,
+        "name": "E 33 St & 1 Ave",
+        "availableBikes": 3,
+        "totalDocks": 59
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97434997558594,
+          40.74315643310547
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 32,
+        "name": "2 Ave & E 31 St",
+        "availableBikes": 6,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97705841064453,
+          40.7429084777832
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 37,
+        "name": "W 42 St & 8 Ave",
+        "availableBikes": 3,
+        "totalDocks": 41
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99098205566406,
+          40.757568359375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 28,
+        "name": "11 Ave & W 59 St",
+        "availableBikes": 5,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99053955078125,
+          40.771522521972656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 13,
+        "name": "Forsyth St & Broome St",
+        "availableBikes": 22,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99266052246094,
+          40.71894073486328
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 35,
+        "name": "S 5 Pl & S 4 St",
+        "availableBikes": 0,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96087646484375,
+          40.71044921875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 25,
+        "name": "Broadway & W 39 St",
+        "availableBikes": 25,
+        "totalDocks": 50
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98721313476562,
+          40.752994537353516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "Water - Whitehall Plaza",
+        "availableBikes": 25,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01272583007812,
+          40.70254898071289
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "1 Ave & E 30 St",
+        "availableBikes": 20,
+        "totalDocks": 29
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97535705566406,
+          40.7414436340332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 36,
+        "name": "Lexington Ave & E 24 St",
+        "availableBikes": 3,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98409271240234,
+          40.740257263183594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "W 49 St & 5 Ave",
+        "availableBikes": 22,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97787475585938,
+          40.75795364379883
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 11,
+        "name": "Metropolitan Ave & Bedford Ave",
+        "availableBikes": 20,
+        "totalDocks": 31
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96024322509766,
+          40.71534729003906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "Lexington Ave & E 26 St",
+        "availableBikes": 9,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98320770263672,
+          40.74147415161133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 22,
+        "name": "E 23 St & 1 Ave",
+        "availableBikes": 4,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97809600830078,
+          40.73650360107422
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 24,
+        "name": "E 30 St & Park Ave S",
+        "availableBikes": 12,
+        "totalDocks": 38
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9830322265625,
+          40.744449615478516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 0,
+        "name": "Front St & Washington St",
+        "availableBikes": 29,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9894027709961,
+          40.70254898071289
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Sands St & Navy St",
+        "availableBikes": 11,
+        "totalDocks": 15
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97992706298828,
+          40.699771881103516
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "Wythe Ave & Metropolitan Ave",
+        "availableBikes": 15,
+        "totalDocks": 27
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96319580078125,
+          40.716888427734375
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "1 Ave & E 18 St",
+        "availableBikes": 0,
+        "totalDocks": 30
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98023986816406,
+          40.734161376953125
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 6,
+        "name": "6 Ave & Broome St",
+        "availableBikes": 26,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00470733642578,
+          40.72439956665039
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 3,
+        "name": "Railroad Ave & Kay Ave",
+        "availableBikes": 9,
+        "totalDocks": 12
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97100067138672,
+          40.7053108215332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 41,
+        "name": "Central Park S & 6 Ave",
+        "availableBikes": 8,
+        "totalDocks": 49
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9763412475586,
+          40.76591110229492
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 14,
+        "name": "Little West St & 1 Pl",
+        "availableBikes": 0,
+        "totalDocks": 22
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01677703857422,
+          40.705692291259766
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 23,
+        "name": "Catherine St & Monroe St",
+        "availableBikes": 10,
+        "totalDocks": 35
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996826171875,
+          40.71117401123047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 8,
+        "name": "Grand St & Greene St",
+        "availableBikes": 30,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00234985351562,
+          40.72165298461914
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 18,
+        "name": "E 27 St & 1 Ave",
+        "availableBikes": 11,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976806640625,
+          40.739444732666016
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 30,
+        "name": "E 43 St & 2 Ave",
+        "availableBikes": 8,
+        "totalDocks": 39
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712142944336,
+          40.75022506713867
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 41,
+        "name": "W 45 St & 8 Ave",
+        "availableBikes": 1,
+        "totalDocks": 43
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98859405517578,
+          40.75929260253906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 29,
+        "name": "E 59 St & Sutton Pl",
+        "availableBikes": 2,
+        "totalDocks": 33
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9592056274414,
+          40.75849151611328
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 12,
+        "name": "E 55 St & Lexington Ave",
+        "availableBikes": 24,
+        "totalDocks": 36
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9703140258789,
+          40.759681701660156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "availableDocks": 16,
+        "name": "South End Ave & Liberty St",
+        "availableBikes": 6,
+        "totalDocks": 25
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01575469970703,
+          40.71151351928711
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
