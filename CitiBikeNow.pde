@@ -123,7 +123,7 @@ void setup() {
   circleMinusY = height-110;  // Position of circle button  
 
   myMovie = new Movie(this, "citiBike.mov");
-  myMovie.play();  
+  myMovie.loop(); 
   
   timer = new Timer(60000); //1min to refresh
   timer.start();  
@@ -149,7 +149,7 @@ void draw() {
 
   map.draw();
 
-  image(myMovie, 10, 10, 180, 240);
+  image(myMovie, 10, 10, 360, 480);
 
   
   stroke(0);
