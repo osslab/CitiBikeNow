@@ -60,7 +60,7 @@ int circleSize = 50;   // Diameter of circle
 boolean circlePlusOver = false;
 boolean circleMinusOver = false;
 
-color circleColor, circleHighlight;
+color circlePlusCurrentColor, circleMinusCurrentColor, circleColor, circleHighlight;
 
 void setup() {
   
@@ -112,10 +112,10 @@ void setup() {
   circleColor = color(255);
   circleHighlight = color(204); 
  
-  circlePlusX = 50; 
-  circlePlusY = height-140;  // Position of circle button
-  circleMinusX = 50;
-  circleMinusY = height-80;  // Position of circle button  
+  circlePlusX = 40; 
+  circlePlusY = height-160;  // Position of circle button
+  circleMinusX = 40;
+  circleMinusY = height-100;  // Position of circle button  
   
   
   timer = new Timer(60000); //1min to refresh
@@ -125,7 +125,7 @@ void setup() {
 
 void draw() {
 
-  
+  update(mouseX, mouseY);
   
   if (timer.isFinished()) {
     markerManager.clearMarkers();
@@ -209,15 +209,41 @@ void setGeoJSON(){
 
 }
 
+void update(int x, int y) {
+  if ( overPlusCircle(circlePlusX, circlePlusY, circleSize) ) {
+    circlePlusOver = true;
+    circleMinusOver = false;
+    
+  } else if ( overMinusCircle(circleMinusX, circleMinusY, circleSize) ) {
+    circlePlusOver = false;
+    circleMinusOver = true;
+    
+  } else {
+    circlePlusOver = false;
+    circleMinusOver = false;
+  }
+}
+
 void mousePressed(){
   record = true;
 
   if (mouseEvent.getClickCount()==2) {
-    currentZoom++;
+    //currentZoom++;
   }
   
+  if (circlePlusOver) {
+    //currentColor = circleColor;
+     // map.panTo(map.getCenter());
+      map.zoomIn();
+      
+  }
 
-
+  if (circleMinusOver) {
+    //currentColor = circleColor;
+     // map.panTo(map.getCenter());
+      map.zoomOut();
+      
+  }
 
 
   
@@ -299,4 +325,24 @@ void saveTimestamped(PImage im) {
 
  
 
+}
+
+boolean overPlusCircle(int x, int y, int diameter) {
+  float disX = x - mouseX;
+  float disY = y - mouseY;
+  if (sqrt(sq(disX) + sq(disY)) < diameter/2 ) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+boolean overMinusCircle(int x, int y, int diameter) {
+  float disX = x - mouseX;
+  float disY = y - mouseY;
+  if (sqrt(sq(disX) + sq(disY)) < diameter/2 ) {
+    return true;
+  } else {
+    return false;
+  }
 }
