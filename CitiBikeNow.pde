@@ -18,6 +18,9 @@ import de.fhpotsdam.unfolding.data.Feature;
 import de.fhpotsdam.unfolding.data.PointFeature;
 import de.fhpotsdam.unfolding.data.GeoJSONReader;
 import de.fhpotsdam.unfolding.events.ZoomMapEvent;
+import processing.video.*;
+Movie myMovie;
+
 
 boolean record;
 
@@ -118,7 +121,9 @@ void setup() {
   circlePlusY = height-170;  // Position of circle button
   circleMinusX = 40;
   circleMinusY = height-110;  // Position of circle button  
-  
+
+  myMovie = new Movie(this, "citiBike.mov");
+  myMovie.play();  
   
   timer = new Timer(60000); //1min to refresh
   timer.start();  
@@ -144,7 +149,7 @@ void draw() {
 
   map.draw();
 
-
+  image(myMovie, 10, 10, 180, 240);
 
   
   stroke(0);
@@ -162,7 +167,7 @@ void draw() {
   
   fill(0,0,0, 100);
   noStroke();
-  rect(5, height - 80 , 200, 30);  
+  rect(5, height - 80 , 200, 50);  
   textSize(14);
   fill(255,255,255, 255);
   text("Updated Time : ", 10, height-60);
@@ -223,6 +228,10 @@ void setGeoJSON(){
    saveJSONObject(geoCitiBikes, "data/new.json");
 
 
+}
+
+void movieEvent(Movie m) {
+  m.read();
 }
 
 void update(int x, int y) {
