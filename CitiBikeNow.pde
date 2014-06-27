@@ -81,6 +81,8 @@ void setup() {
    
   
   map = new UnfoldingMap(this, new StamenMapProvider.Toner());
+  map.setPanningRestriction(tischLocation, 5);
+  map.setZoomRange(11, 15);
   map.zoomToLevel(currentZoom);
   map.panTo(tischLocation);  
   
@@ -235,6 +237,8 @@ void mousePressed(){
     //currentColor = circleColor;
      // map.panTo(map.getCenter());
       map.zoomIn();
+      //map.move(new ScreenPosition(width/2, height/2));
+      map.panTo(map.getCenter());
       
   }
 
@@ -242,6 +246,8 @@ void mousePressed(){
     //currentColor = circleColor;
      // map.panTo(map.getCenter());
       map.zoomOut();
+      map.panTo(map.getCenter());
+      //map.move(new ScreenPosition(width/2, height/2));
       
   }
 
