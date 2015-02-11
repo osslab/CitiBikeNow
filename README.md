@@ -4,5 +4,3 @@ The feed data was not provide with GeoJson format used in Unfolding map Library.
 
 This project was selected as <a href="http://unfoldingmaps.org/2014unfolded.html" target="_blank"> a June project in the 2014 project review of Unfolding map.</a>
 
-The video below shows how this project works using accumulated feed data during June, 2014.
-<iframe src="//player.vimeo.com/video/112715676" width="720" height="958" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
